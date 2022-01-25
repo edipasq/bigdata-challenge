@@ -6,3 +6,4 @@ big data hw
 ![image](https://user-images.githubusercontent.com/88738293/151050880-5c269799-ae8d-4a4d-bc1a-0ef6d60fe257.png)
 ![image](https://user-images.githubusercontent.com/88738293/151051024-5af32256-740b-4c42-9fbe-04cd63566b52.png)
 ![image](https://user-images.githubusercontent.com/88738293/151051136-d46c63b9-9d58-4826-8451-9e16264d53eb.png)
+![image](https://user-images.githubusercontent.com/88738293/151051501-1bd1ff12-0a67-41b8-b9a7-04dae67bf384.png)
